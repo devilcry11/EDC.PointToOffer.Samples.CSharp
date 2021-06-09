@@ -3,3 +3,8 @@ E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.PrintList
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.PrintListInReversedOrder\obj\Debug\Sobey.PointToOffer.PrintListInReversedOrder.csprojResolveAssemblyReference.cache
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.PrintListInReversedOrder\obj\Debug\Sobey.PointToOffer.PrintListInReversedOrder.exe
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.PrintListInReversedOrder\obj\Debug\Sobey.PointToOffer.PrintListInReversedOrder.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.PrintListInReversedOrder\bin\Debug\Sobey.PointToOffer.PrintListInReversedOrder.exe
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.PrintListInReversedOrder\bin\Debug\Sobey.PointToOffer.PrintListInReversedOrder.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.PrintListInReversedOrder\obj\Debug\Sobey.PointToOffer.PrintListInReversedOrder.csproj.CoreCompileInputs.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.PrintListInReversedOrder\obj\Debug\Sobey.PointToOffer.PrintListInReversedOrder.exe
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.PrintListInReversedOrder\obj\Debug\Sobey.PointToOffer.PrintListInReversedOrder.pdb

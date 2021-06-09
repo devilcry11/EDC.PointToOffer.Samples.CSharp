@@ -5,3 +5,13 @@ E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReverseSe
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReverseSentense.UnitTest\obj\Debug\Sobey.PointToOffer.ReverseWords.UnitTest.csprojResolveAssemblyReference.cache
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReverseSentense.UnitTest\obj\Debug\Sobey.PointToOffer.ReverseWords.UnitTest.dll
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReverseSentense.UnitTest\obj\Debug\Sobey.PointToOffer.ReverseWords.UnitTest.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ReverseSentense.UnitTest\bin\Debug\Sobey.PointToOffer.ReverseWords.UnitTest.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ReverseSentense.UnitTest\bin\Debug\Sobey.PointToOffer.ReverseWords.UnitTest.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ReverseSentense.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ReverseSentense.UnitTest\bin\Debug\Sobey.PointToOffer.ReverseWords.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ReverseSentense.UnitTest\bin\Debug\Sobey.PointToOffer.ReverseWords.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ReverseSentense.UnitTest\obj\Debug\Sobey.PointToOffer.ReverseWords.UnitTest.csprojAssemblyReference.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ReverseSentense.UnitTest\obj\Debug\Sobey.PointToOffer.ReverseWords.UnitTest.csproj.CoreCompileInputs.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ReverseSentense.UnitTest\obj\Debug\Sobey.PointToOffer.ReverseWords.UnitTest.csproj.CopyComplete
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ReverseSentense.UnitTest\obj\Debug\Sobey.PointToOffer.ReverseWords.UnitTest.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ReverseSentense.UnitTest\obj\Debug\Sobey.PointToOffer.ReverseWords.UnitTest.pdb

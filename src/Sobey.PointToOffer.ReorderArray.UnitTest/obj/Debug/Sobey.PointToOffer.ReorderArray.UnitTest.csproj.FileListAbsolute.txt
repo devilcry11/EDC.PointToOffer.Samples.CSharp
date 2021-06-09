@@ -5,3 +5,13 @@ E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReorderAr
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReorderArray.UnitTest\obj\Debug\Sobey.PointToOffer.ReorderArray.UnitTest.csprojResolveAssemblyReference.cache
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReorderArray.UnitTest\obj\Debug\Sobey.PointToOffer.ReorderArray.UnitTest.dll
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReorderArray.UnitTest\obj\Debug\Sobey.PointToOffer.ReorderArray.UnitTest.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ReorderArray.UnitTest\bin\Debug\Sobey.PointToOffer.ReorderArray.UnitTest.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ReorderArray.UnitTest\bin\Debug\Sobey.PointToOffer.ReorderArray.UnitTest.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ReorderArray.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ReorderArray.UnitTest\bin\Debug\Sobey.PointToOffer.ReorderArray.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ReorderArray.UnitTest\bin\Debug\Sobey.PointToOffer.ReorderArray.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ReorderArray.UnitTest\obj\Debug\Sobey.PointToOffer.ReorderArray.UnitTest.csprojAssemblyReference.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ReorderArray.UnitTest\obj\Debug\Sobey.PointToOffer.ReorderArray.UnitTest.csproj.CoreCompileInputs.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ReorderArray.UnitTest\obj\Debug\Sobey.PointToOffer.ReorderArray.UnitTest.csproj.CopyComplete
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ReorderArray.UnitTest\obj\Debug\Sobey.PointToOffer.ReorderArray.UnitTest.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ReorderArray.UnitTest\obj\Debug\Sobey.PointToOffer.ReorderArray.UnitTest.pdb

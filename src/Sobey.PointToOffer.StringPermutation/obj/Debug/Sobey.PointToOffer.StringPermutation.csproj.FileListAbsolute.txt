@@ -2,3 +2,8 @@ E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.StringPer
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.StringPermutation\bin\Debug\Sobey.PointToOffer.StringPermutation.pdb
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.StringPermutation\obj\Debug\Sobey.PointToOffer.StringPermutation.exe
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.StringPermutation\obj\Debug\Sobey.PointToOffer.StringPermutation.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.StringPermutation\bin\Debug\Sobey.PointToOffer.StringPermutation.exe
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.StringPermutation\bin\Debug\Sobey.PointToOffer.StringPermutation.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.StringPermutation\obj\Debug\Sobey.PointToOffer.StringPermutation.csproj.CoreCompileInputs.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.StringPermutation\obj\Debug\Sobey.PointToOffer.StringPermutation.exe
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.StringPermutation\obj\Debug\Sobey.PointToOffer.StringPermutation.pdb

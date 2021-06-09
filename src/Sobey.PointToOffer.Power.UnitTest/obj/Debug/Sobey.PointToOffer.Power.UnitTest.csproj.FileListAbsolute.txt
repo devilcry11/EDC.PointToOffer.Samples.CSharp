@@ -5,3 +5,13 @@ E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.Power.Uni
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.Power.UnitTest\bin\Debug\Sobey.PointToOffer.Power.pdb
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.Power.UnitTest\obj\Debug\Sobey.PointToOffer.Power.UnitTest.dll
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.Power.UnitTest\obj\Debug\Sobey.PointToOffer.Power.UnitTest.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.Power.UnitTest\bin\Debug\Sobey.PointToOffer.Power.UnitTest.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.Power.UnitTest\bin\Debug\Sobey.PointToOffer.Power.UnitTest.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.Power.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.Power.UnitTest\bin\Debug\Sobey.PointToOffer.Power.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.Power.UnitTest\bin\Debug\Sobey.PointToOffer.Power.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.Power.UnitTest\obj\Debug\Sobey.PointToOffer.Power.UnitTest.csprojAssemblyReference.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.Power.UnitTest\obj\Debug\Sobey.PointToOffer.Power.UnitTest.csproj.CoreCompileInputs.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.Power.UnitTest\obj\Debug\Sobey.PointToOffer.Power.UnitTest.csproj.CopyComplete
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.Power.UnitTest\obj\Debug\Sobey.PointToOffer.Power.UnitTest.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.Power.UnitTest\obj\Debug\Sobey.PointToOffer.Power.UnitTest.pdb

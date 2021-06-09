@@ -5,3 +5,13 @@ E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.NumberOfK
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.NumberOfK.UnitTest\obj\Debug\Sobey.PointToOffer.NumberOfK.UnitTest.csprojResolveAssemblyReference.cache
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.NumberOfK.UnitTest\obj\Debug\Sobey.PointToOffer.NumberOfK.UnitTest.dll
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.NumberOfK.UnitTest\obj\Debug\Sobey.PointToOffer.NumberOfK.UnitTest.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.NumberOfK.UnitTest\bin\Debug\Sobey.PointToOffer.NumberOfK.UnitTest.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.NumberOfK.UnitTest\bin\Debug\Sobey.PointToOffer.NumberOfK.UnitTest.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.NumberOfK.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.NumberOfK.UnitTest\bin\Debug\Sobey.PointToOffer.NumberOfK.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.NumberOfK.UnitTest\bin\Debug\Sobey.PointToOffer.NumberOfK.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.NumberOfK.UnitTest\obj\Debug\Sobey.PointToOffer.NumberOfK.UnitTest.csprojAssemblyReference.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.NumberOfK.UnitTest\obj\Debug\Sobey.PointToOffer.NumberOfK.UnitTest.csproj.CoreCompileInputs.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.NumberOfK.UnitTest\obj\Debug\Sobey.PointToOffer.NumberOfK.UnitTest.csproj.CopyComplete
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.NumberOfK.UnitTest\obj\Debug\Sobey.PointToOffer.NumberOfK.UnitTest.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.NumberOfK.UnitTest\obj\Debug\Sobey.PointToOffer.NumberOfK.UnitTest.pdb

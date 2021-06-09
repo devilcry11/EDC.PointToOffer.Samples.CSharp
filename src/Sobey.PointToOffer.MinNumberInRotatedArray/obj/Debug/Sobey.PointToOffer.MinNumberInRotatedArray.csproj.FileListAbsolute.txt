@@ -3,3 +3,9 @@ E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MinNumber
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MinNumberInRotatedArray\obj\Debug\Sobey.PointToOffer.MinNumberInRotatedArray.exe
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MinNumberInRotatedArray\obj\Debug\Sobey.PointToOffer.MinNumberInRotatedArray.pdb
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MinNumberInRotatedArray\obj\Debug\Sobey.PointToOffer.MinNumberInRotatedArray.csprojResolveAssemblyReference.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MinNumberInRotatedArray\bin\Debug\Sobey.PointToOffer.MinNumberInRotatedArray.exe
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MinNumberInRotatedArray\bin\Debug\Sobey.PointToOffer.MinNumberInRotatedArray.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MinNumberInRotatedArray\obj\Debug\Sobey.PointToOffer.MinNumberInRotatedArray.csprojAssemblyReference.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MinNumberInRotatedArray\obj\Debug\Sobey.PointToOffer.MinNumberInRotatedArray.csproj.CoreCompileInputs.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MinNumberInRotatedArray\obj\Debug\Sobey.PointToOffer.MinNumberInRotatedArray.exe
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MinNumberInRotatedArray\obj\Debug\Sobey.PointToOffer.MinNumberInRotatedArray.pdb

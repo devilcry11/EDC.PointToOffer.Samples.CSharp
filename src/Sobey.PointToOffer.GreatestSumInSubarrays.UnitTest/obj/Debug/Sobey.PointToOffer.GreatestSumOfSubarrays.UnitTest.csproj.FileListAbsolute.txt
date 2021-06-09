@@ -5,3 +5,13 @@ E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.GreatestS
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.GreatestSumInSubarrays.UnitTest\bin\Debug\Sobey.PointToOffer.GreatestSumOfSubarrays.UnitTest.pdb
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.GreatestSumInSubarrays.UnitTest\obj\Debug\Sobey.PointToOffer.GreatestSumOfSubarrays.UnitTest.dll
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.GreatestSumInSubarrays.UnitTest\obj\Debug\Sobey.PointToOffer.GreatestSumOfSubarrays.UnitTest.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.GreatestSumInSubarrays.UnitTest\bin\Debug\Sobey.PointToOffer.GreatestSumOfSubarrays.UnitTest.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.GreatestSumInSubarrays.UnitTest\bin\Debug\Sobey.PointToOffer.GreatestSumOfSubarrays.UnitTest.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.GreatestSumInSubarrays.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.GreatestSumInSubarrays.UnitTest\bin\Debug\Sobey.PointToOffer.GreatestSumOfSubarrays.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.GreatestSumInSubarrays.UnitTest\bin\Debug\Sobey.PointToOffer.GreatestSumOfSubarrays.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.GreatestSumInSubarrays.UnitTest\obj\Debug\Sobey.PointToOffer.GreatestSumOfSubarrays.UnitTest.csprojAssemblyReference.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.GreatestSumInSubarrays.UnitTest\obj\Debug\Sobey.PointToOffer.GreatestSumOfSubarrays.UnitTest.csproj.CoreCompileInputs.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.GreatestSumInSubarrays.UnitTest\obj\Debug\Sobey.PointToOffer.GreatestSumOfSubarrays.UnitTest.csproj.CopyComplete
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.GreatestSumInSubarrays.UnitTest\obj\Debug\Sobey.PointToOffer.GreatestSumOfSubarrays.UnitTest.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.GreatestSumInSubarrays.UnitTest\obj\Debug\Sobey.PointToOffer.GreatestSumOfSubarrays.UnitTest.pdb

@@ -3,3 +3,8 @@ E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.UglyNumbe
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.UglyNumber\obj\Debug\Sobey.PointToOffer.UglyNumber.csprojResolveAssemblyReference.cache
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.UglyNumber\obj\Debug\Sobey.PointToOffer.UglyNumber.exe
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.UglyNumber\obj\Debug\Sobey.PointToOffer.UglyNumber.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.UglyNumber\bin\Debug\Sobey.PointToOffer.UglyNumber.exe
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.UglyNumber\bin\Debug\Sobey.PointToOffer.UglyNumber.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.UglyNumber\obj\Debug\Sobey.PointToOffer.UglyNumber.csproj.CoreCompileInputs.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.UglyNumber\obj\Debug\Sobey.PointToOffer.UglyNumber.exe
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.UglyNumber\obj\Debug\Sobey.PointToOffer.UglyNumber.pdb

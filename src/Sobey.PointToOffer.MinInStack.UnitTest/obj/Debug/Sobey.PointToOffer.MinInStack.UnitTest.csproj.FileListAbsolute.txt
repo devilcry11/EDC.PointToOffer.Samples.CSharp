@@ -5,3 +5,13 @@ E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MinInStac
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MinInStack.UnitTest\obj\Debug\Sobey.PointToOffer.MinInStack.UnitTest.csprojResolveAssemblyReference.cache
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MinInStack.UnitTest\obj\Debug\Sobey.PointToOffer.MinInStack.UnitTest.dll
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MinInStack.UnitTest\obj\Debug\Sobey.PointToOffer.MinInStack.UnitTest.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MinInStack.UnitTest\bin\Debug\Sobey.PointToOffer.MinInStack.UnitTest.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MinInStack.UnitTest\bin\Debug\Sobey.PointToOffer.MinInStack.UnitTest.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MinInStack.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MinInStack.UnitTest\bin\Debug\Sobey.PointToOffer.MinInStack.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MinInStack.UnitTest\bin\Debug\Sobey.PointToOffer.MinInStack.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MinInStack.UnitTest\obj\Debug\Sobey.PointToOffer.MinInStack.UnitTest.csprojAssemblyReference.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MinInStack.UnitTest\obj\Debug\Sobey.PointToOffer.MinInStack.UnitTest.csproj.CoreCompileInputs.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MinInStack.UnitTest\obj\Debug\Sobey.PointToOffer.MinInStack.UnitTest.csproj.CopyComplete
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MinInStack.UnitTest\obj\Debug\Sobey.PointToOffer.MinInStack.UnitTest.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MinInStack.UnitTest\obj\Debug\Sobey.PointToOffer.MinInStack.UnitTest.pdb

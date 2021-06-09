@@ -3,3 +3,8 @@ E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.BalancedB
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.BalancedBinaryTree\obj\Debug\Sobey.PointToOffer.BalancedBinaryTree.csprojResolveAssemblyReference.cache
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.BalancedBinaryTree\obj\Debug\Sobey.PointToOffer.BalancedBinaryTree.dll
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.BalancedBinaryTree\obj\Debug\Sobey.PointToOffer.BalancedBinaryTree.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.BalancedBinaryTree\bin\Debug\Sobey.PointToOffer.BalancedBinaryTree.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.BalancedBinaryTree\bin\Debug\Sobey.PointToOffer.BalancedBinaryTree.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.BalancedBinaryTree\obj\Debug\Sobey.PointToOffer.BalancedBinaryTree.csproj.CoreCompileInputs.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.BalancedBinaryTree\obj\Debug\Sobey.PointToOffer.BalancedBinaryTree.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.BalancedBinaryTree\obj\Debug\Sobey.PointToOffer.BalancedBinaryTree.pdb

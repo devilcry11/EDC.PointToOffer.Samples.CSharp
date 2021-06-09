@@ -3,3 +3,9 @@ E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.TopKNumbe
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.TopKNumber\obj\Debug\Sobey.PointToOffer.TopKNumber.exe
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.TopKNumber\obj\Debug\Sobey.PointToOffer.TopKNumber.pdb
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.TopKNumber\obj\Debug\Sobey.PointToOffer.TopKNumber.csprojResolveAssemblyReference.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.TopKNumber\bin\Debug\Sobey.PointToOffer.TopKNumber.exe
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.TopKNumber\bin\Debug\Sobey.PointToOffer.TopKNumber.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.TopKNumber\obj\Debug\Sobey.PointToOffer.TopKNumber.csprojAssemblyReference.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.TopKNumber\obj\Debug\Sobey.PointToOffer.TopKNumber.csproj.CoreCompileInputs.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.TopKNumber\obj\Debug\Sobey.PointToOffer.TopKNumber.exe
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.TopKNumber\obj\Debug\Sobey.PointToOffer.TopKNumber.pdb

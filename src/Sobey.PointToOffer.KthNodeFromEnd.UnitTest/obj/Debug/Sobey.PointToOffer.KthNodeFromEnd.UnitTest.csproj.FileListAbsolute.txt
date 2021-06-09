@@ -5,3 +5,13 @@ E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.KthNodeFr
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.KthNodeFromEnd.UnitTest\obj\Debug\Sobey.PointToOffer.KthNodeFromEnd.UnitTest.csprojResolveAssemblyReference.cache
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.KthNodeFromEnd.UnitTest\obj\Debug\Sobey.PointToOffer.KthNodeFromEnd.UnitTest.dll
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.KthNodeFromEnd.UnitTest\obj\Debug\Sobey.PointToOffer.KthNodeFromEnd.UnitTest.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.KthNodeFromEnd.UnitTest\bin\Debug\Sobey.PointToOffer.KthNodeFromEnd.UnitTest.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.KthNodeFromEnd.UnitTest\bin\Debug\Sobey.PointToOffer.KthNodeFromEnd.UnitTest.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.KthNodeFromEnd.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.KthNodeFromEnd.UnitTest\bin\Debug\Sobey.PointToOffer.KthNodeFromEnd.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.KthNodeFromEnd.UnitTest\bin\Debug\Sobey.PointToOffer.KthNodeFromEnd.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.KthNodeFromEnd.UnitTest\obj\Debug\Sobey.PointToOffer.KthNodeFromEnd.UnitTest.csprojAssemblyReference.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.KthNodeFromEnd.UnitTest\obj\Debug\Sobey.PointToOffer.KthNodeFromEnd.UnitTest.csproj.CoreCompileInputs.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.KthNodeFromEnd.UnitTest\obj\Debug\Sobey.PointToOffer.KthNodeFromEnd.UnitTest.csproj.CopyComplete
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.KthNodeFromEnd.UnitTest\obj\Debug\Sobey.PointToOffer.KthNodeFromEnd.UnitTest.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.KthNodeFromEnd.UnitTest\obj\Debug\Sobey.PointToOffer.KthNodeFromEnd.UnitTest.pdb

@@ -3,3 +3,8 @@ E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.PrintMatr
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.PrintMatrix\obj\Debug\Sobey.PointToOffer.PrintMatrix.csprojResolveAssemblyReference.cache
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.PrintMatrix\obj\Debug\Sobey.PointToOffer.PrintMatrix.exe
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.PrintMatrix\obj\Debug\Sobey.PointToOffer.PrintMatrix.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.PrintMatrix\bin\Debug\Sobey.PointToOffer.PrintMatrix.exe
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.PrintMatrix\bin\Debug\Sobey.PointToOffer.PrintMatrix.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.PrintMatrix\obj\Debug\Sobey.PointToOffer.PrintMatrix.csproj.CoreCompileInputs.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.PrintMatrix\obj\Debug\Sobey.PointToOffer.PrintMatrix.exe
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.PrintMatrix\obj\Debug\Sobey.PointToOffer.PrintMatrix.pdb

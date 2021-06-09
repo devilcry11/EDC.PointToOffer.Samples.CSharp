@@ -3,3 +3,9 @@ E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MinInStac
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MinInStack\obj\Debug\Sobey.PointToOffer.MinInStack.csprojResolveAssemblyReference.cache
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MinInStack\obj\Debug\Sobey.PointToOffer.MinInStack.dll
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MinInStack\obj\Debug\Sobey.PointToOffer.MinInStack.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MinInStack\bin\Debug\Sobey.PointToOffer.MinInStack.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MinInStack\bin\Debug\Sobey.PointToOffer.MinInStack.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MinInStack\obj\Debug\Sobey.PointToOffer.MinInStack.csprojAssemblyReference.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MinInStack\obj\Debug\Sobey.PointToOffer.MinInStack.csproj.CoreCompileInputs.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MinInStack\obj\Debug\Sobey.PointToOffer.MinInStack.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MinInStack\obj\Debug\Sobey.PointToOffer.MinInStack.pdb

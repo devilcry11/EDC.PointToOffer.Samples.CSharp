@@ -5,3 +5,13 @@ E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.StackPush
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.StackPushPopOrder.UnitTest\obj\Debug\Sobey.PointToOffer.StackPushPopOrder.UnitTest.csprojResolveAssemblyReference.cache
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.StackPushPopOrder.UnitTest\obj\Debug\Sobey.PointToOffer.StackPushPopOrder.UnitTest.dll
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.StackPushPopOrder.UnitTest\obj\Debug\Sobey.PointToOffer.StackPushPopOrder.UnitTest.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.StackPushPopOrder.UnitTest\bin\Debug\Sobey.PointToOffer.StackPushPopOrder.UnitTest.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.StackPushPopOrder.UnitTest\bin\Debug\Sobey.PointToOffer.StackPushPopOrder.UnitTest.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.StackPushPopOrder.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.StackPushPopOrder.UnitTest\bin\Debug\Sobey.PointToOffer.StackPushPopOrder.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.StackPushPopOrder.UnitTest\bin\Debug\Sobey.PointToOffer.StackPushPopOrder.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.StackPushPopOrder.UnitTest\obj\Debug\Sobey.PointToOffer.StackPushPopOrder.UnitTest.csprojAssemblyReference.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.StackPushPopOrder.UnitTest\obj\Debug\Sobey.PointToOffer.StackPushPopOrder.UnitTest.csproj.CoreCompileInputs.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.StackPushPopOrder.UnitTest\obj\Debug\Sobey.PointToOffer.StackPushPopOrder.UnitTest.csproj.CopyComplete
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.StackPushPopOrder.UnitTest\obj\Debug\Sobey.PointToOffer.StackPushPopOrder.UnitTest.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.StackPushPopOrder.UnitTest\obj\Debug\Sobey.PointToOffer.StackPushPopOrder.UnitTest.pdb

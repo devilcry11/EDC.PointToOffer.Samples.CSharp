@@ -5,3 +5,13 @@ E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.StringToI
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.StringToInt.UnitTest\obj\Debug\Sobey.PointToOffer.StringToInt.UnitTest.csprojResolveAssemblyReference.cache
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.StringToInt.UnitTest\obj\Debug\Sobey.PointToOffer.StringToInt.UnitTest.dll
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.StringToInt.UnitTest\obj\Debug\Sobey.PointToOffer.StringToInt.UnitTest.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.StringToInt.UnitTest\bin\Debug\Sobey.PointToOffer.StringToInt.UnitTest.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.StringToInt.UnitTest\bin\Debug\Sobey.PointToOffer.StringToInt.UnitTest.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.StringToInt.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.StringToInt.UnitTest\bin\Debug\Sobey.PointToOffer.StringToInt.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.StringToInt.UnitTest\bin\Debug\Sobey.PointToOffer.StringToInt.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.StringToInt.UnitTest\obj\Debug\Sobey.PointToOffer.StringToInt.UnitTest.csprojAssemblyReference.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.StringToInt.UnitTest\obj\Debug\Sobey.PointToOffer.StringToInt.UnitTest.csproj.CoreCompileInputs.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.StringToInt.UnitTest\obj\Debug\Sobey.PointToOffer.StringToInt.UnitTest.csproj.CopyComplete
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.StringToInt.UnitTest\obj\Debug\Sobey.PointToOffer.StringToInt.UnitTest.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.StringToInt.UnitTest\obj\Debug\Sobey.PointToOffer.StringToInt.UnitTest.pdb

@@ -3,3 +3,9 @@ E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.KthNodeFr
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.KthNodeFromEnd\obj\Debug\Sobey.PointToOffer.KthNodeFromEnd.csprojResolveAssemblyReference.cache
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.KthNodeFromEnd\obj\Debug\Sobey.PointToOffer.KthNodeFromEnd.dll
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.KthNodeFromEnd\obj\Debug\Sobey.PointToOffer.KthNodeFromEnd.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.KthNodeFromEnd\bin\Debug\Sobey.PointToOffer.KthNodeFromEnd.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.KthNodeFromEnd\bin\Debug\Sobey.PointToOffer.KthNodeFromEnd.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.KthNodeFromEnd\obj\Debug\Sobey.PointToOffer.KthNodeFromEnd.csprojAssemblyReference.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.KthNodeFromEnd\obj\Debug\Sobey.PointToOffer.KthNodeFromEnd.csproj.CoreCompileInputs.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.KthNodeFromEnd\obj\Debug\Sobey.PointToOffer.KthNodeFromEnd.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.KthNodeFromEnd\obj\Debug\Sobey.PointToOffer.KthNodeFromEnd.pdb

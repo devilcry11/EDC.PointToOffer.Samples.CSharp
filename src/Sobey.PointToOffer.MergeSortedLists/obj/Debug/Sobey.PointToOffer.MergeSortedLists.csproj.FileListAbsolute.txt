@@ -3,3 +3,8 @@ E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MergeSort
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MergeSortedLists\obj\Debug\Sobey.PointToOffer.MergeSortedLists.csprojResolveAssemblyReference.cache
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MergeSortedLists\obj\Debug\Sobey.PointToOffer.MergeSortedLists.dll
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MergeSortedLists\obj\Debug\Sobey.PointToOffer.MergeSortedLists.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MergeSortedLists\bin\Debug\Sobey.PointToOffer.MergeSortedLists.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MergeSortedLists\bin\Debug\Sobey.PointToOffer.MergeSortedLists.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MergeSortedLists\obj\Debug\Sobey.PointToOffer.MergeSortedLists.csproj.CoreCompileInputs.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MergeSortedLists\obj\Debug\Sobey.PointToOffer.MergeSortedLists.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MergeSortedLists\obj\Debug\Sobey.PointToOffer.MergeSortedLists.pdb

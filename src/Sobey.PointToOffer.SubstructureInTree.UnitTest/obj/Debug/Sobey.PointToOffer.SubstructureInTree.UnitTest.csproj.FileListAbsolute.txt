@@ -5,3 +5,13 @@ E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.Substruct
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.SubstructureInTree.UnitTest\obj\Debug\Sobey.PointToOffer.SubstructureInTree.UnitTest.csprojResolveAssemblyReference.cache
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.SubstructureInTree.UnitTest\obj\Debug\Sobey.PointToOffer.SubstructureInTree.UnitTest.dll
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.SubstructureInTree.UnitTest\obj\Debug\Sobey.PointToOffer.SubstructureInTree.UnitTest.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.SubstructureInTree.UnitTest\bin\Debug\Sobey.PointToOffer.SubstructureInTree.UnitTest.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.SubstructureInTree.UnitTest\bin\Debug\Sobey.PointToOffer.SubstructureInTree.UnitTest.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.SubstructureInTree.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.SubstructureInTree.UnitTest\bin\Debug\Sobey.PointToOffer.SubstructureInTree.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.SubstructureInTree.UnitTest\bin\Debug\Sobey.PointToOffer.SubstructureInTree.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.SubstructureInTree.UnitTest\obj\Debug\Sobey.PointToOffer.SubstructureInTree.UnitTest.csprojAssemblyReference.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.SubstructureInTree.UnitTest\obj\Debug\Sobey.PointToOffer.SubstructureInTree.UnitTest.csproj.CoreCompileInputs.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.SubstructureInTree.UnitTest\obj\Debug\Sobey.PointToOffer.SubstructureInTree.UnitTest.csproj.CopyComplete
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.SubstructureInTree.UnitTest\obj\Debug\Sobey.PointToOffer.SubstructureInTree.UnitTest.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.SubstructureInTree.UnitTest\obj\Debug\Sobey.PointToOffer.SubstructureInTree.UnitTest.pdb

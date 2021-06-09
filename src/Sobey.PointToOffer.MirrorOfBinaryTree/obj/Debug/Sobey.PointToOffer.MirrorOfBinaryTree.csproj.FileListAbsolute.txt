@@ -3,3 +3,8 @@ E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MirrorOfB
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MirrorOfBinaryTree\obj\Debug\Sobey.PointToOffer.MirrorOfBinaryTree.csprojResolveAssemblyReference.cache
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MirrorOfBinaryTree\obj\Debug\Sobey.PointToOffer.MirrorOfBinaryTree.dll
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MirrorOfBinaryTree\obj\Debug\Sobey.PointToOffer.MirrorOfBinaryTree.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MirrorOfBinaryTree\bin\Debug\Sobey.PointToOffer.MirrorOfBinaryTree.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MirrorOfBinaryTree\bin\Debug\Sobey.PointToOffer.MirrorOfBinaryTree.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MirrorOfBinaryTree\obj\Debug\Sobey.PointToOffer.MirrorOfBinaryTree.csproj.CoreCompileInputs.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MirrorOfBinaryTree\obj\Debug\Sobey.PointToOffer.MirrorOfBinaryTree.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MirrorOfBinaryTree\obj\Debug\Sobey.PointToOffer.MirrorOfBinaryTree.pdb

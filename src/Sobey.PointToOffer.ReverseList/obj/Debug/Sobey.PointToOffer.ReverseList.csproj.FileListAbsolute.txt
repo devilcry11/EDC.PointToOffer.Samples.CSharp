@@ -3,3 +3,8 @@ E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReverseLi
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReverseList\obj\Debug\Sobey.PointToOffer.ReverseList.dll
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReverseList\obj\Debug\Sobey.PointToOffer.ReverseList.pdb
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReverseList\obj\Debug\Sobey.PointToOffer.ReverseList.csprojResolveAssemblyReference.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ReverseList\bin\Debug\Sobey.PointToOffer.ReverseList.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ReverseList\bin\Debug\Sobey.PointToOffer.ReverseList.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ReverseList\obj\Debug\Sobey.PointToOffer.ReverseList.csproj.CoreCompileInputs.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ReverseList\obj\Debug\Sobey.PointToOffer.ReverseList.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ReverseList\obj\Debug\Sobey.PointToOffer.ReverseList.pdb

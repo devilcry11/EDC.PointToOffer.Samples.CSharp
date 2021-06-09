@@ -5,3 +5,13 @@ E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReplaceBl
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReplaceBlank.UnitTest\obj\Debug\Sobey.PointToOffer.ReplaceBlank.UnitTest.csprojResolveAssemblyReference.cache
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReplaceBlank.UnitTest\obj\Debug\Sobey.PointToOffer.ReplaceBlank.UnitTest.dll
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReplaceBlank.UnitTest\obj\Debug\Sobey.PointToOffer.ReplaceBlank.UnitTest.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ReplaceBlank.UnitTest\bin\Debug\Sobey.PointToOffer.ReplaceBlank.UnitTest.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ReplaceBlank.UnitTest\bin\Debug\Sobey.PointToOffer.ReplaceBlank.UnitTest.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ReplaceBlank.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ReplaceBlank.UnitTest\bin\Debug\Sobey.PointToOffer.ReplaceBlank.exe
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ReplaceBlank.UnitTest\bin\Debug\Sobey.PointToOffer.ReplaceBlank.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ReplaceBlank.UnitTest\obj\Debug\Sobey.PointToOffer.ReplaceBlank.UnitTest.csprojAssemblyReference.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ReplaceBlank.UnitTest\obj\Debug\Sobey.PointToOffer.ReplaceBlank.UnitTest.csproj.CoreCompileInputs.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ReplaceBlank.UnitTest\obj\Debug\Sobey.PointToOffer.ReplaceBlank.UnitTest.csproj.CopyComplete
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ReplaceBlank.UnitTest\obj\Debug\Sobey.PointToOffer.ReplaceBlank.UnitTest.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ReplaceBlank.UnitTest\obj\Debug\Sobey.PointToOffer.ReplaceBlank.UnitTest.pdb

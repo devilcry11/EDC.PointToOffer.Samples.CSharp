@@ -5,3 +5,13 @@ E:\Project Files\dotNet Projects\Sobey.PointToOffer\UnitTestProject1\bin\Debug\S
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\UnitTestProject1\obj\Debug\Sobey.PointToOffer.MergeSortedLists.UnitTest.csprojResolveAssemblyReference.cache
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\UnitTestProject1\obj\Debug\Sobey.PointToOffer.MergeSortedLists.UnitTest.dll
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\UnitTestProject1\obj\Debug\Sobey.PointToOffer.MergeSortedLists.UnitTest.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\UnitTestProject1\bin\Debug\Sobey.PointToOffer.MergeSortedLists.UnitTest.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\UnitTestProject1\bin\Debug\Sobey.PointToOffer.MergeSortedLists.UnitTest.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\UnitTestProject1\bin\Debug\Sobey.PointToOffer.MergeSortedLists.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\UnitTestProject1\bin\Debug\Sobey.PointToOffer.MergeSortedLists.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\UnitTestProject1\obj\Debug\Sobey.PointToOffer.MergeSortedLists.UnitTest.csprojAssemblyReference.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\UnitTestProject1\obj\Debug\Sobey.PointToOffer.MergeSortedLists.UnitTest.csproj.CoreCompileInputs.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\UnitTestProject1\obj\Debug\Sobey.PointToOffer.MergeSortedLists.UnitTest.csproj.CopyComplete
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\UnitTestProject1\obj\Debug\Sobey.PointToOffer.MergeSortedLists.UnitTest.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\UnitTestProject1\obj\Debug\Sobey.PointToOffer.MergeSortedLists.UnitTest.pdb

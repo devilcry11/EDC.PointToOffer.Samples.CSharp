@@ -2,3 +2,8 @@ E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReplaceBl
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReplaceBlank\bin\Debug\Sobey.PointToOffer.ReplaceBlank.pdb
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReplaceBlank\obj\Debug\Sobey.PointToOffer.ReplaceBlank.exe
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReplaceBlank\obj\Debug\Sobey.PointToOffer.ReplaceBlank.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ReplaceBlank\bin\Debug\Sobey.PointToOffer.ReplaceBlank.exe
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ReplaceBlank\bin\Debug\Sobey.PointToOffer.ReplaceBlank.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ReplaceBlank\obj\Debug\Sobey.PointToOffer.ReplaceBlank.csproj.CoreCompileInputs.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ReplaceBlank\obj\Debug\Sobey.PointToOffer.ReplaceBlank.exe
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ReplaceBlank\obj\Debug\Sobey.PointToOffer.ReplaceBlank.pdb

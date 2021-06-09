@@ -5,3 +5,9 @@ E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.Singleton
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.Singleton\obj\Debug\Sobey.PointToOffer.Singleton.pdb
 E:\Projects\DotNet Workspace\Sobey.PointToOffer\Sobey.PointToOffer.Singleton\obj\Debug\Sobey.PointToOffer.Singleton.exe
 E:\Projects\DotNet Workspace\Sobey.PointToOffer\Sobey.PointToOffer.Singleton\obj\Debug\Sobey.PointToOffer.Singleton.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.Singleton\bin\Debug\Sobey.PointToOffer.Singleton.exe
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.Singleton\bin\Debug\Sobey.PointToOffer.Singleton.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.Singleton\obj\Debug\Sobey.PointToOffer.Singleton.csprojAssemblyReference.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.Singleton\obj\Debug\Sobey.PointToOffer.Singleton.csproj.CoreCompileInputs.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.Singleton\obj\Debug\Sobey.PointToOffer.Singleton.exe
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.Singleton\obj\Debug\Sobey.PointToOffer.Singleton.pdb

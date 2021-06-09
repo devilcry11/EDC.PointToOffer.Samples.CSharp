@@ -2,3 +2,8 @@ E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.GreatestS
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.GreatestSumOfSubarrays\bin\Debug\Sobey.PointToOffer.GreatestSumOfSubarrays.pdb
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.GreatestSumOfSubarrays\obj\Debug\Sobey.PointToOffer.GreatestSumOfSubarrays.dll
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.GreatestSumOfSubarrays\obj\Debug\Sobey.PointToOffer.GreatestSumOfSubarrays.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.GreatestSumOfSubarrays\bin\Debug\Sobey.PointToOffer.GreatestSumOfSubarrays.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.GreatestSumOfSubarrays\bin\Debug\Sobey.PointToOffer.GreatestSumOfSubarrays.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.GreatestSumOfSubarrays\obj\Debug\Sobey.PointToOffer.GreatestSumOfSubarrays.csproj.CoreCompileInputs.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.GreatestSumOfSubarrays\obj\Debug\Sobey.PointToOffer.GreatestSumOfSubarrays.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.GreatestSumOfSubarrays\obj\Debug\Sobey.PointToOffer.GreatestSumOfSubarrays.pdb

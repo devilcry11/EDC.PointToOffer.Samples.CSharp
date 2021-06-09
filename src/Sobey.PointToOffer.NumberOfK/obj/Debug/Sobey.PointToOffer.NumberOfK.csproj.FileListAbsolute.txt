@@ -3,3 +3,8 @@ E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.NumberOfK
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.NumberOfK\obj\Debug\Sobey.PointToOffer.NumberOfK.csprojResolveAssemblyReference.cache
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.NumberOfK\obj\Debug\Sobey.PointToOffer.NumberOfK.dll
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.NumberOfK\obj\Debug\Sobey.PointToOffer.NumberOfK.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.NumberOfK\bin\Debug\Sobey.PointToOffer.NumberOfK.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.NumberOfK\bin\Debug\Sobey.PointToOffer.NumberOfK.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.NumberOfK\obj\Debug\Sobey.PointToOffer.NumberOfK.csproj.CoreCompileInputs.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.NumberOfK\obj\Debug\Sobey.PointToOffer.NumberOfK.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.NumberOfK\obj\Debug\Sobey.PointToOffer.NumberOfK.pdb

@@ -2,3 +2,8 @@ E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReverseWo
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReverseWords\bin\Debug\Sobey.PointToOffer.ReverseWords.pdb
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReverseWords\obj\Debug\Sobey.PointToOffer.ReverseWords.dll
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReverseWords\obj\Debug\Sobey.PointToOffer.ReverseWords.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ReverseWords\bin\Debug\Sobey.PointToOffer.ReverseWords.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ReverseWords\bin\Debug\Sobey.PointToOffer.ReverseWords.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ReverseWords\obj\Debug\Sobey.PointToOffer.ReverseWords.csproj.CoreCompileInputs.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ReverseWords\obj\Debug\Sobey.PointToOffer.ReverseWords.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ReverseWords\obj\Debug\Sobey.PointToOffer.ReverseWords.pdb

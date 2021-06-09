@@ -3,3 +3,8 @@ E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.CopyCompl
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.CopyComplexList\obj\Debug\Sobey.PointToOffer.CopyComplexList.csprojResolveAssemblyReference.cache
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.CopyComplexList\obj\Debug\Sobey.PointToOffer.CopyComplexList.exe
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.CopyComplexList\obj\Debug\Sobey.PointToOffer.CopyComplexList.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.CopyComplexList\bin\Debug\Sobey.PointToOffer.CopyComplexList.exe
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.CopyComplexList\bin\Debug\Sobey.PointToOffer.CopyComplexList.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.CopyComplexList\obj\Debug\Sobey.PointToOffer.CopyComplexList.csproj.CoreCompileInputs.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.CopyComplexList\obj\Debug\Sobey.PointToOffer.CopyComplexList.exe
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.CopyComplexList\obj\Debug\Sobey.PointToOffer.CopyComplexList.pdb

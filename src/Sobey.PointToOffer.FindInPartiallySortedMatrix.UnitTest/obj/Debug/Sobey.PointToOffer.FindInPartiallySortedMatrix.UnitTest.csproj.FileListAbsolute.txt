@@ -5,3 +5,13 @@ E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.FindInPar
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.FindInPartiallySortedMatrix.UnitTest\obj\Debug\Sobey.PointToOffer.FindInPartiallySortedMatrix.UnitTest.csprojResolveAssemblyReference.cache
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.FindInPartiallySortedMatrix.UnitTest\obj\Debug\Sobey.PointToOffer.FindInPartiallySortedMatrix.UnitTest.dll
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.FindInPartiallySortedMatrix.UnitTest\obj\Debug\Sobey.PointToOffer.FindInPartiallySortedMatrix.UnitTest.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.FindInPartiallySortedMatrix.UnitTest\bin\Debug\Sobey.PointToOffer.FindInPartiallySortedMatrix.UnitTest.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.FindInPartiallySortedMatrix.UnitTest\bin\Debug\Sobey.PointToOffer.FindInPartiallySortedMatrix.UnitTest.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.FindInPartiallySortedMatrix.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.FindInPartiallySortedMatrix.UnitTest\bin\Debug\Sobey.PointToOffer.FindInPartiallySortedMatrix.exe
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.FindInPartiallySortedMatrix.UnitTest\bin\Debug\Sobey.PointToOffer.FindInPartiallySortedMatrix.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.FindInPartiallySortedMatrix.UnitTest\obj\Debug\Sobey.PointToOffer.FindInPartiallySortedMatrix.UnitTest.csprojAssemblyReference.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.FindInPartiallySortedMatrix.UnitTest\obj\Debug\Sobey.PointToOffer.FindInPartiallySortedMatrix.UnitTest.csproj.CoreCompileInputs.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.FindInPartiallySortedMatrix.UnitTest\obj\Debug\Sobey.PointToOffer.FindInPartiallySortedMatrix.UnitTest.csproj.CopyComplete
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.FindInPartiallySortedMatrix.UnitTest\obj\Debug\Sobey.PointToOffer.FindInPartiallySortedMatrix.UnitTest.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.FindInPartiallySortedMatrix.UnitTest\obj\Debug\Sobey.PointToOffer.FindInPartiallySortedMatrix.UnitTest.pdb

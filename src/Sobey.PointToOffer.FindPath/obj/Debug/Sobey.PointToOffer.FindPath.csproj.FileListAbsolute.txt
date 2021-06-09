@@ -3,3 +3,8 @@ E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.FindPath\
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.FindPath\obj\Debug\Sobey.PointToOffer.FindPath.csprojResolveAssemblyReference.cache
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.FindPath\obj\Debug\Sobey.PointToOffer.FindPath.exe
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.FindPath\obj\Debug\Sobey.PointToOffer.FindPath.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.FindPath\bin\Debug\Sobey.PointToOffer.FindPath.exe
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.FindPath\bin\Debug\Sobey.PointToOffer.FindPath.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.FindPath\obj\Debug\Sobey.PointToOffer.FindPath.csproj.CoreCompileInputs.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.FindPath\obj\Debug\Sobey.PointToOffer.FindPath.exe
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.FindPath\obj\Debug\Sobey.PointToOffer.FindPath.pdb

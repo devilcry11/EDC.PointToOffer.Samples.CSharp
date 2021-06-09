@@ -5,3 +5,13 @@ E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.BalancedB
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.BalancedBinaryTree.UnitTest\obj\Debug\Sobey.PointToOffer.BalancedBinaryTree.UnitTest.csprojResolveAssemblyReference.cache
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.BalancedBinaryTree.UnitTest\obj\Debug\Sobey.PointToOffer.BalancedBinaryTree.UnitTest.dll
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.BalancedBinaryTree.UnitTest\obj\Debug\Sobey.PointToOffer.BalancedBinaryTree.UnitTest.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.BalancedBinaryTree.UnitTest\bin\Debug\Sobey.PointToOffer.BalancedBinaryTree.UnitTest.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.BalancedBinaryTree.UnitTest\bin\Debug\Sobey.PointToOffer.BalancedBinaryTree.UnitTest.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.BalancedBinaryTree.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.BalancedBinaryTree.UnitTest\bin\Debug\Sobey.PointToOffer.BalancedBinaryTree.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.BalancedBinaryTree.UnitTest\bin\Debug\Sobey.PointToOffer.BalancedBinaryTree.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.BalancedBinaryTree.UnitTest\obj\Debug\Sobey.PointToOffer.BalancedBinaryTree.UnitTest.csprojAssemblyReference.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.BalancedBinaryTree.UnitTest\obj\Debug\Sobey.PointToOffer.BalancedBinaryTree.UnitTest.csproj.CoreCompileInputs.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.BalancedBinaryTree.UnitTest\obj\Debug\Sobey.PointToOffer.BalancedBinaryTree.UnitTest.csproj.CopyComplete
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.BalancedBinaryTree.UnitTest\obj\Debug\Sobey.PointToOffer.BalancedBinaryTree.UnitTest.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.BalancedBinaryTree.UnitTest\obj\Debug\Sobey.PointToOffer.BalancedBinaryTree.UnitTest.pdb

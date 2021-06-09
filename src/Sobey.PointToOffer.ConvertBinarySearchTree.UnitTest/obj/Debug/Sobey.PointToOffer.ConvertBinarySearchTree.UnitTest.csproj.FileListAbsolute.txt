@@ -5,3 +5,13 @@ E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ConvertBi
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ConvertBinarySearchTree.UnitTest\obj\Debug\Sobey.PointToOffer.ConvertBinarySearchTree.UnitTest.csprojResolveAssemblyReference.cache
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ConvertBinarySearchTree.UnitTest\obj\Debug\Sobey.PointToOffer.ConvertBinarySearchTree.UnitTest.dll
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ConvertBinarySearchTree.UnitTest\obj\Debug\Sobey.PointToOffer.ConvertBinarySearchTree.UnitTest.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ConvertBinarySearchTree.UnitTest\bin\Debug\Sobey.PointToOffer.ConvertBinarySearchTree.UnitTest.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ConvertBinarySearchTree.UnitTest\bin\Debug\Sobey.PointToOffer.ConvertBinarySearchTree.UnitTest.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ConvertBinarySearchTree.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ConvertBinarySearchTree.UnitTest\bin\Debug\Sobey.PointToOffer.ConvertBinarySearchTree.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ConvertBinarySearchTree.UnitTest\bin\Debug\Sobey.PointToOffer.ConvertBinarySearchTree.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ConvertBinarySearchTree.UnitTest\obj\Debug\Sobey.PointToOffer.ConvertBinarySearchTree.UnitTest.csprojAssemblyReference.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ConvertBinarySearchTree.UnitTest\obj\Debug\Sobey.PointToOffer.ConvertBinarySearchTree.UnitTest.csproj.CoreCompileInputs.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ConvertBinarySearchTree.UnitTest\obj\Debug\Sobey.PointToOffer.ConvertBinarySearchTree.UnitTest.csproj.CopyComplete
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ConvertBinarySearchTree.UnitTest\obj\Debug\Sobey.PointToOffer.ConvertBinarySearchTree.UnitTest.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ConvertBinarySearchTree.UnitTest\obj\Debug\Sobey.PointToOffer.ConvertBinarySearchTree.UnitTest.pdb

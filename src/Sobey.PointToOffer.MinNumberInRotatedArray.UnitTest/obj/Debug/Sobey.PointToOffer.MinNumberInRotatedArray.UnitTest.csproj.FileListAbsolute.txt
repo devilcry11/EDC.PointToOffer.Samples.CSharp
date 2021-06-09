@@ -5,3 +5,13 @@ E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MinNumber
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MinNumberInRotatedArray.UnitTest\obj\Debug\Sobey.PointToOffer.MinNumberInRotatedArray.UnitTest.csprojResolveAssemblyReference.cache
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MinNumberInRotatedArray.UnitTest\obj\Debug\Sobey.PointToOffer.MinNumberInRotatedArray.UnitTest.dll
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MinNumberInRotatedArray.UnitTest\obj\Debug\Sobey.PointToOffer.MinNumberInRotatedArray.UnitTest.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MinNumberInRotatedArray.UnitTest\bin\Debug\Sobey.PointToOffer.MinNumberInRotatedArray.UnitTest.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MinNumberInRotatedArray.UnitTest\bin\Debug\Sobey.PointToOffer.MinNumberInRotatedArray.UnitTest.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MinNumberInRotatedArray.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MinNumberInRotatedArray.UnitTest\bin\Debug\Sobey.PointToOffer.MinNumberInRotatedArray.exe
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MinNumberInRotatedArray.UnitTest\bin\Debug\Sobey.PointToOffer.MinNumberInRotatedArray.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MinNumberInRotatedArray.UnitTest\obj\Debug\Sobey.PointToOffer.MinNumberInRotatedArray.UnitTest.csprojAssemblyReference.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MinNumberInRotatedArray.UnitTest\obj\Debug\Sobey.PointToOffer.MinNumberInRotatedArray.UnitTest.csproj.CoreCompileInputs.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MinNumberInRotatedArray.UnitTest\obj\Debug\Sobey.PointToOffer.MinNumberInRotatedArray.UnitTest.csproj.CopyComplete
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MinNumberInRotatedArray.UnitTest\obj\Debug\Sobey.PointToOffer.MinNumberInRotatedArray.UnitTest.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MinNumberInRotatedArray.UnitTest\obj\Debug\Sobey.PointToOffer.MinNumberInRotatedArray.UnitTest.pdb

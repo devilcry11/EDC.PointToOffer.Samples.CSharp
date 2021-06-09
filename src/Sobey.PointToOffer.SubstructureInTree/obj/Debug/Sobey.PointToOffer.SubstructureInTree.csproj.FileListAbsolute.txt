@@ -2,3 +2,8 @@ E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.Substruct
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.SubstructureInTree\bin\Debug\Sobey.PointToOffer.SubstructureInTree.pdb
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.SubstructureInTree\obj\Debug\Sobey.PointToOffer.SubstructureInTree.dll
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.SubstructureInTree\obj\Debug\Sobey.PointToOffer.SubstructureInTree.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.SubstructureInTree\bin\Debug\Sobey.PointToOffer.SubstructureInTree.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.SubstructureInTree\bin\Debug\Sobey.PointToOffer.SubstructureInTree.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.SubstructureInTree\obj\Debug\Sobey.PointToOffer.SubstructureInTree.csproj.CoreCompileInputs.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.SubstructureInTree\obj\Debug\Sobey.PointToOffer.SubstructureInTree.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.SubstructureInTree\obj\Debug\Sobey.PointToOffer.SubstructureInTree.pdb

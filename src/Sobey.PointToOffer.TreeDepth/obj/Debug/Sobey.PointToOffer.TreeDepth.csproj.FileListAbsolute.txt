@@ -8,3 +8,8 @@ E:\Projects\DotNet Workspace\Sobey.PointToOffer\Sobey.PointToOffer.TreeDepth\bin
 E:\Projects\DotNet Workspace\Sobey.PointToOffer\Sobey.PointToOffer.TreeDepth\obj\Debug\Sobey.PointToOffer.TreeDepth.csprojResolveAssemblyReference.cache
 E:\Projects\DotNet Workspace\Sobey.PointToOffer\Sobey.PointToOffer.TreeDepth\obj\Debug\Sobey.PointToOffer.TreeDepth.dll
 E:\Projects\DotNet Workspace\Sobey.PointToOffer\Sobey.PointToOffer.TreeDepth\obj\Debug\Sobey.PointToOffer.TreeDepth.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.TreeDepth\bin\Debug\Sobey.PointToOffer.TreeDepth.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.TreeDepth\bin\Debug\Sobey.PointToOffer.TreeDepth.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.TreeDepth\obj\Debug\Sobey.PointToOffer.TreeDepth.csproj.CoreCompileInputs.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.TreeDepth\obj\Debug\Sobey.PointToOffer.TreeDepth.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.TreeDepth\obj\Debug\Sobey.PointToOffer.TreeDepth.pdb

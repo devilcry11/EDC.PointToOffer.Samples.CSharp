@@ -3,3 +3,8 @@ E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.FirstNotR
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.FirstNotRepeatingChar\obj\Debug\Sobey.PointToOffer.FirstNotRepeatingChar.csprojResolveAssemblyReference.cache
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.FirstNotRepeatingChar\obj\Debug\Sobey.PointToOffer.FirstNotRepeatingChar.dll
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.FirstNotRepeatingChar\obj\Debug\Sobey.PointToOffer.FirstNotRepeatingChar.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.FirstNotRepeatingChar\bin\Debug\Sobey.PointToOffer.FirstNotRepeatingChar.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.FirstNotRepeatingChar\bin\Debug\Sobey.PointToOffer.FirstNotRepeatingChar.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.FirstNotRepeatingChar\obj\Debug\Sobey.PointToOffer.FirstNotRepeatingChar.csproj.CoreCompileInputs.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.FirstNotRepeatingChar\obj\Debug\Sobey.PointToOffer.FirstNotRepeatingChar.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.FirstNotRepeatingChar\obj\Debug\Sobey.PointToOffer.FirstNotRepeatingChar.pdb

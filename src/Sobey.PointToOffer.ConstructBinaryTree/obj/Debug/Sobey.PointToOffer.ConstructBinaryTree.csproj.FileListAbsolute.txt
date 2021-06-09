@@ -3,3 +3,9 @@ E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.Construct
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ConstructBinaryTree\obj\Debug\Sobey.PointToOffer.ConstructBinaryTree.csprojResolveAssemblyReference.cache
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ConstructBinaryTree\obj\Debug\Sobey.PointToOffer.ConstructBinaryTree.exe
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ConstructBinaryTree\obj\Debug\Sobey.PointToOffer.ConstructBinaryTree.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ConstructBinaryTree\bin\Debug\Sobey.PointToOffer.ConstructBinaryTree.exe
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ConstructBinaryTree\bin\Debug\Sobey.PointToOffer.ConstructBinaryTree.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ConstructBinaryTree\obj\Debug\Sobey.PointToOffer.ConstructBinaryTree.csprojAssemblyReference.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ConstructBinaryTree\obj\Debug\Sobey.PointToOffer.ConstructBinaryTree.csproj.CoreCompileInputs.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ConstructBinaryTree\obj\Debug\Sobey.PointToOffer.ConstructBinaryTree.exe
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ConstructBinaryTree\obj\Debug\Sobey.PointToOffer.ConstructBinaryTree.pdb

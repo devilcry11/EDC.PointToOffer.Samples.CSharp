@@ -2,3 +2,8 @@ E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.DeleteNod
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.DeleteNodeInList\bin\Debug\Sobey.PointToOffer.DeleteNodeInList.pdb
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.DeleteNodeInList\obj\Debug\Sobey.PointToOffer.DeleteNodeInList.exe
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.DeleteNodeInList\obj\Debug\Sobey.PointToOffer.DeleteNodeInList.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.DeleteNodeInList\bin\Debug\Sobey.PointToOffer.DeleteNodeInList.exe
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.DeleteNodeInList\bin\Debug\Sobey.PointToOffer.DeleteNodeInList.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.DeleteNodeInList\obj\Debug\Sobey.PointToOffer.DeleteNodeInList.csproj.CoreCompileInputs.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.DeleteNodeInList\obj\Debug\Sobey.PointToOffer.DeleteNodeInList.exe
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.DeleteNodeInList\obj\Debug\Sobey.PointToOffer.DeleteNodeInList.pdb

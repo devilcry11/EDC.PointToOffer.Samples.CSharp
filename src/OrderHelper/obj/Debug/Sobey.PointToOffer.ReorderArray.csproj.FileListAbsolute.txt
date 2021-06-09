@@ -3,3 +3,8 @@ E:\Project Files\dotNet Projects\Sobey.PointToOffer\OrderHelper\bin\Debug\Sobey.
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\OrderHelper\obj\Debug\Sobey.PointToOffer.ReorderArray.dll
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\OrderHelper\obj\Debug\Sobey.PointToOffer.ReorderArray.pdb
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\OrderHelper\obj\Debug\Sobey.PointToOffer.ReorderArray.csprojResolveAssemblyReference.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\OrderHelper\bin\Debug\Sobey.PointToOffer.ReorderArray.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\OrderHelper\bin\Debug\Sobey.PointToOffer.ReorderArray.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\OrderHelper\obj\Debug\Sobey.PointToOffer.ReorderArray.csproj.CoreCompileInputs.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\OrderHelper\obj\Debug\Sobey.PointToOffer.ReorderArray.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\OrderHelper\obj\Debug\Sobey.PointToOffer.ReorderArray.pdb

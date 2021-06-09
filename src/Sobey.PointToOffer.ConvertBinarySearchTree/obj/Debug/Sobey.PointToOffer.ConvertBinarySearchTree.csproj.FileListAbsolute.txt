@@ -3,3 +3,8 @@ E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ConvertBi
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ConvertBinarySearchTree\obj\Debug\Sobey.PointToOffer.ConvertBinarySearchTree.csprojResolveAssemblyReference.cache
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ConvertBinarySearchTree\obj\Debug\Sobey.PointToOffer.ConvertBinarySearchTree.dll
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ConvertBinarySearchTree\obj\Debug\Sobey.PointToOffer.ConvertBinarySearchTree.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ConvertBinarySearchTree\bin\Debug\Sobey.PointToOffer.ConvertBinarySearchTree.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ConvertBinarySearchTree\bin\Debug\Sobey.PointToOffer.ConvertBinarySearchTree.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ConvertBinarySearchTree\obj\Debug\Sobey.PointToOffer.ConvertBinarySearchTree.csproj.CoreCompileInputs.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ConvertBinarySearchTree\obj\Debug\Sobey.PointToOffer.ConvertBinarySearchTree.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.ConvertBinarySearchTree\obj\Debug\Sobey.PointToOffer.ConvertBinarySearchTree.pdb

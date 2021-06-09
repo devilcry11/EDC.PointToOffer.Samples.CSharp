@@ -5,3 +5,13 @@ E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MirrorOfB
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MirrorOfBinaryTree.UnitTest\obj\Debug\Sobey.PointToOffer.MirrorOfBinaryTree.UnitTest.csprojResolveAssemblyReference.cache
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MirrorOfBinaryTree.UnitTest\obj\Debug\Sobey.PointToOffer.MirrorOfBinaryTree.UnitTest.dll
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MirrorOfBinaryTree.UnitTest\obj\Debug\Sobey.PointToOffer.MirrorOfBinaryTree.UnitTest.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MirrorOfBinaryTree.UnitTest\bin\Debug\Sobey.PointToOffer.MirrorOfBinaryTree.UnitTest.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MirrorOfBinaryTree.UnitTest\bin\Debug\Sobey.PointToOffer.MirrorOfBinaryTree.UnitTest.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MirrorOfBinaryTree.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MirrorOfBinaryTree.UnitTest\bin\Debug\Sobey.PointToOffer.MirrorOfBinaryTree.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MirrorOfBinaryTree.UnitTest\bin\Debug\Sobey.PointToOffer.MirrorOfBinaryTree.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MirrorOfBinaryTree.UnitTest\obj\Debug\Sobey.PointToOffer.MirrorOfBinaryTree.UnitTest.csprojAssemblyReference.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MirrorOfBinaryTree.UnitTest\obj\Debug\Sobey.PointToOffer.MirrorOfBinaryTree.UnitTest.csproj.CoreCompileInputs.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MirrorOfBinaryTree.UnitTest\obj\Debug\Sobey.PointToOffer.MirrorOfBinaryTree.UnitTest.csproj.CopyComplete
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MirrorOfBinaryTree.UnitTest\obj\Debug\Sobey.PointToOffer.MirrorOfBinaryTree.UnitTest.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.MirrorOfBinaryTree.UnitTest\obj\Debug\Sobey.PointToOffer.MirrorOfBinaryTree.UnitTest.pdb

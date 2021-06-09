@@ -5,3 +5,13 @@ E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.NumberOf1
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.NumberOf1InBinary.UnitTest\obj\Debug\Sobey.PointToOffer.NumberOf1InBinary.UnitTest.csprojResolveAssemblyReference.cache
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.NumberOf1InBinary.UnitTest\obj\Debug\Sobey.PointToOffer.NumberOf1InBinary.UnitTest.dll
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.NumberOf1InBinary.UnitTest\obj\Debug\Sobey.PointToOffer.NumberOf1InBinary.UnitTest.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.NumberOf1InBinary.UnitTest\bin\Debug\Sobey.PointToOffer.NumberOf1InBinary.UnitTest.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.NumberOf1InBinary.UnitTest\bin\Debug\Sobey.PointToOffer.NumberOf1InBinary.UnitTest.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.NumberOf1InBinary.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.NumberOf1InBinary.UnitTest\bin\Debug\Sobey.PointToOffer.NumberOf1InBinary.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.NumberOf1InBinary.UnitTest\bin\Debug\Sobey.PointToOffer.NumberOf1InBinary.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.NumberOf1InBinary.UnitTest\obj\Debug\Sobey.PointToOffer.NumberOf1InBinary.UnitTest.csprojAssemblyReference.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.NumberOf1InBinary.UnitTest\obj\Debug\Sobey.PointToOffer.NumberOf1InBinary.UnitTest.csproj.CoreCompileInputs.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.NumberOf1InBinary.UnitTest\obj\Debug\Sobey.PointToOffer.NumberOf1InBinary.UnitTest.csproj.CopyComplete
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.NumberOf1InBinary.UnitTest\obj\Debug\Sobey.PointToOffer.NumberOf1InBinary.UnitTest.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.NumberOf1InBinary.UnitTest\obj\Debug\Sobey.PointToOffer.NumberOf1InBinary.UnitTest.pdb

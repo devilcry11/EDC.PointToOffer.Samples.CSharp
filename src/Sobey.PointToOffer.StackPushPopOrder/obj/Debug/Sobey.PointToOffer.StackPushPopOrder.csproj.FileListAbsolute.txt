@@ -3,3 +3,8 @@ E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.StackPush
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.StackPushPopOrder\obj\Debug\Sobey.PointToOffer.StackPushPopOrder.csprojResolveAssemblyReference.cache
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.StackPushPopOrder\obj\Debug\Sobey.PointToOffer.StackPushPopOrder.dll
 E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.StackPushPopOrder\obj\Debug\Sobey.PointToOffer.StackPushPopOrder.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.StackPushPopOrder\bin\Debug\Sobey.PointToOffer.StackPushPopOrder.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.StackPushPopOrder\bin\Debug\Sobey.PointToOffer.StackPushPopOrder.pdb
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.StackPushPopOrder\obj\Debug\Sobey.PointToOffer.StackPushPopOrder.csproj.CoreCompileInputs.cache
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.StackPushPopOrder\obj\Debug\Sobey.PointToOffer.StackPushPopOrder.dll
+D:\Workspaces\Learning\C#\GitHub\EDC.PointToOffer.Samples.CSharp\src\Sobey.PointToOffer.StackPushPopOrder\obj\Debug\Sobey.PointToOffer.StackPushPopOrder.pdb
